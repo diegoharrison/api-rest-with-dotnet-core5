@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\dotnet\\api-with-dotnetcore5\\api-with-dotnetcore5\\api-with-dotnetcore5.csproj": {}
+    "C:\\Projects\\Udemy\\api-with-dotnetcore5\\api-with-dotnetcore5\\api-with-dotnetcore5.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\dotnet\\api-with-dotnetcore5\\api-with-dotnetcore5\\api-with-dotnetcore5.csproj": {
+    "C:\\Projects\\Udemy\\api-with-dotnetcore5\\api-with-dotnetcore5\\api-with-dotnetcore5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\dotnet\\api-with-dotnetcore5\\api-with-dotnetcore5\\api-with-dotnetcore5.csproj",
+        "projectUniqueName": "C:\\Projects\\Udemy\\api-with-dotnetcore5\\api-with-dotnetcore5\\api-with-dotnetcore5.csproj",
         "projectName": "api-with-dotnetcore5",
-        "projectPath": "C:\\Projects\\dotnet\\api-with-dotnetcore5\\api-with-dotnetcore5\\api-with-dotnetcore5.csproj",
+        "projectPath": "C:\\Projects\\Udemy\\api-with-dotnetcore5\\api-with-dotnetcore5\\api-with-dotnetcore5.csproj",
         "packagesPath": "C:\\Users\\Harrison\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\dotnet\\api-with-dotnetcore5\\api-with-dotnetcore5\\obj\\",
+        "outputPath": "C:\\Projects\\Udemy\\api-with-dotnetcore5\\api-with-dotnetcore5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
