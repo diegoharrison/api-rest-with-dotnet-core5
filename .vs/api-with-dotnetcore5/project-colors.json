@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1cd072db-234c-423e-b6ed-e80e6d00589c": {
+      "ProjectGuid": "1cd072db-234c-423e-b6ed-e80e6d00589c",
+      "DisplayName": "api-with-dotnetcore5",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
