@@ -1,16 +1,17 @@
 ﻿using api_with_dotnetcore5.Model;
 using api_with_dotnetcore5.Model.Context;
+using api_with_dotnetcore5.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace api_with_dotnetcore5.Services.Implementations
+namespace api_with_dotnetcore5.Business.Implementations
 {
-    public class PersonServiceImplementation : IPersonService
+    public class PersonRepositoryImplementation : IPersonRepository
     {
         private MySQLContext _context;
 
-        public PersonServiceImplementation(MySQLContext context)
+        public PersonRepositoryImplementation(MySQLContext context)
         {
             _context = context;
         }
@@ -80,7 +81,7 @@ namespace api_with_dotnetcore5.Services.Implementations
             }
         }
 
-        private bool Exists(long id)
+        public bool Exists(long id)
         {
             return _context.Persons.Any(p => p.Id.Equals(id));
         }

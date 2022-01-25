@@ -1,9 +1,9 @@
 ﻿using api_with_dotnetcore5.Model;
 using System.Collections.Generic;
 
-namespace api_with_dotnetcore5.Services.Implementations
+namespace api_with_dotnetcore5.Business.Implementations
 {
-    public interface IPersonService
+    public interface IPersonBusiness
     {
         Person Create(Person person);
         Person FindByID(long id);

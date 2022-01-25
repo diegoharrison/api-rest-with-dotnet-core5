@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Udemy\\api-with-dotnetcore5\\api-with-dotnetcore5\\api-with-dotnetcore5.csproj": {}
+    "C:\\Projects\\Udemy\\api-rest-with-dotnet-core5\\api-with-dotnetcore5\\api-with-dotnetcore5.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Udemy\\api-with-dotnetcore5\\api-with-dotnetcore5\\api-with-dotnetcore5.csproj": {
+    "C:\\Projects\\Udemy\\api-rest-with-dotnet-core5\\api-with-dotnetcore5\\api-with-dotnetcore5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Udemy\\api-with-dotnetcore5\\api-with-dotnetcore5\\api-with-dotnetcore5.csproj",
+        "projectUniqueName": "C:\\Projects\\Udemy\\api-rest-with-dotnet-core5\\api-with-dotnetcore5\\api-with-dotnetcore5.csproj",
         "projectName": "api-with-dotnetcore5",
-        "projectPath": "C:\\Projects\\Udemy\\api-with-dotnetcore5\\api-with-dotnetcore5\\api-with-dotnetcore5.csproj",
+        "projectPath": "C:\\Projects\\Udemy\\api-rest-with-dotnet-core5\\api-with-dotnetcore5\\api-with-dotnetcore5.csproj",
         "packagesPath": "C:\\Users\\Harrison\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Udemy\\api-with-dotnetcore5\\api-with-dotnetcore5\\obj\\",
+        "outputPath": "C:\\Projects\\Udemy\\api-rest-with-dotnet-core5\\api-with-dotnetcore5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -27,8 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://packagesource": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -46,6 +45,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[3.2.0, )"

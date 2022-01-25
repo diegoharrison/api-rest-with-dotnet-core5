@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lzpbGpvQAtQjE5x88lhoDJFTpgEPC0xa50TiQvLpo8NNGsOvGBZTHHe2r9kJLaMYBLqh7H7i4HgCJc7U3nqo8w==",
+  "dgSpecHash": "tdAqYoz7hIjr0Y9O5otQHpVIOhLVCe2t5JecwalipF/yQbffKrhyzE7OBnk2ZBFtkxLZXR1WyIg0cpQaHXA49A==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Udemy\\api-with-dotnetcore5\\api-with-dotnetcore5\\api-with-dotnetcore5.csproj",
+  "projectFilePath": "C:\\Projects\\Udemy\\api-rest-with-dotnet-core5\\api-with-dotnetcore5\\api-with-dotnetcore5.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Harrison\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\Harrison\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Harrison\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
